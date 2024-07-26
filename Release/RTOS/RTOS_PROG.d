@@ -1,0 +1,19 @@
+RTOS/RTOS_PROG.o RTOS/RTOS_PROG.o: ../RTOS/RTOS_PROG.c \
+  ../RTOS/../LIB/BIT_MATH.h ../RTOS/../LIB/STD_TYPES.h \
+  ../RTOS/../MCAL/TIMERS/TIMER_init.h \
+  ../RTOS/../MCAL/GLOBAL_INTERRUPT/Global_Interrupt_interface.h \
+  ../RTOS/RTOS_CONFG.h ../RTOS/RTOS_INTERFACE.h ../RTOS/RTOS_PRAIVET.h
+
+../RTOS/../LIB/BIT_MATH.h:
+
+../RTOS/../LIB/STD_TYPES.h:
+
+../RTOS/../MCAL/TIMERS/TIMER_init.h:
+
+../RTOS/../MCAL/GLOBAL_INTERRUPT/Global_Interrupt_interface.h:
+
+../RTOS/RTOS_CONFG.h:
+
+../RTOS/RTOS_INTERFACE.h:
+
+../RTOS/RTOS_PRAIVET.h:
