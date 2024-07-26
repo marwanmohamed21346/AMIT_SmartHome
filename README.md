@@ -19,6 +19,7 @@ ABOUT PROJECT:
 
 + Admin and user can access to all applies except user cannot control the door opening.
 
+![Untitled (1)](https://github.com/user-attachments/assets/7bac0f49-321b-41a2-a6bd-d2ebac7db002)
 
 Specifications LCD& keypad:
 ---------------------------
